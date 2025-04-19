@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    <string name="camera_permission_granted">Camera permission granted</string>
+    <string name="microphone_permission_already_granted">Microphone permission already granted</string>
+    <string name="camera_permission_already_granted">Camera permission already granted</string>
+</resources>
